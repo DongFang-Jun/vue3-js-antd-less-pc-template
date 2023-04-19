@@ -1,11 +1,10 @@
 # vue3-js-antd-less-pc-templete
-![Image text](https://github.com/vivoX9/vue3-js-antd-less-pc-templete/blob/master/src/assets/images/display/admin.png)
+
 ## DEMO图
-```
+
 ![Image text](https://github.com/vivoX9/vue3-js-antd-less-pc-templete/blob/master/src/assets/images/display/admin.png)
 
-![Alt](./src/assets/images/display/home.png)
-```
+![Image text](https://github.com/vivoX9/vue3-js-antd-less-pc-templete/blob/master/src/assets/images/display/home.png)
 
 ## Project Setup
 
