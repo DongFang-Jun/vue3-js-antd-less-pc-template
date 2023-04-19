@@ -2,7 +2,7 @@
 
 ## DEMO图
 ```
-![Alt](./src/assets/images/display/admin.png)
+![Image text](https://github.com/vivoX9/vue3-js-antd-less-pc-templete/blob/master/src/assets/images/display/admin.png)
 
 ![Alt](./src/assets/images/display/home.png)
 ```
