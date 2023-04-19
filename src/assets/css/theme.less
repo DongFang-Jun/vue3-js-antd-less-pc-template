@@ -1,0 +1,24 @@
+@import "ant-design-vue/dist/antd.variable.min.css";
+
+:root {
+  --primaryColor: #343a40; //ant-design-vue主题色
+  --activeColor: #1d2023; //强调主题色
+  --secColor: #343434; //衬托色
+  --backgroundColor: #f8f9fa;
+  --borderRadius: 4px;
+  --titleColor: #343a40;
+  --subTitleColor: #6c757d;
+}
+
+.ant-menu.ant-menu-dark,
+.ant-menu-dark .ant-menu-inline.ant-menu-sub {
+  background-color: var(--primaryColor);
+}
+
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: var(--activeColor);
+}
+
+.ant-menu-dark .ant-menu-inline.ant-menu-sub {
+  background-color: var(--secColor);
+}
