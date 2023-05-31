@@ -1,4 +1,4 @@
-# vue3-js-antd-less-pc-templete
+# vue3-js-antd-less-pc-template
 
 ## 项目介绍
 
